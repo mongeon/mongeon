@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-- 🤔 I’m on Mastodon <a rel="me" href="https://techhub.social/@mongeon">https://techhub.social/@mongeon</a>
 <!--
 **mongeon/mongeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
